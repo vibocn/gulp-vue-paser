@@ -1,0 +1,33 @@
+{
+  "name": "gulp-vue-paser",
+  "version": "0.0.1",
+  "description": "编译vue模板文件",
+  "main": "index.js",
+  "keywords": [
+    "gulp",
+    "watch",
+    "gulpplugin"
+  ],
+  "author": {
+    "name": "Vibo Song",
+    "email": "vibo.talk@gmail.com",
+    "url": "http://www.flash3v.com"
+  },
+  "license": "MIT",
+  "scripts": {
+
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:vibocn/gulp-vue-paser.git"
+  },
+  "devDependencies": {
+    "gulp-footer": "^1.0.5",
+    "gulp-header": "^1.8.8",
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.1"
+  }
+}
