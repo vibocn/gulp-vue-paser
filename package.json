@@ -14,9 +14,7 @@
     "url": "http://www.flash3v.com"
   },
   "license": "MIT",
-  "scripts": {
-
-  },
+  "scripts": {},
   "files": [
     "index.js"
   ],
@@ -25,9 +23,13 @@
     "url": "git@github.com:vibocn/gulp-vue-paser.git"
   },
   "devDependencies": {
+    "cheerio": "^0.22.0",
     "gulp-footer": "^1.0.5",
     "gulp-header": "^1.8.8",
+    "gulp-seajs-combo": "^1.2.3",
     "gulp-util": "^3.0.7",
-    "through2": "^2.0.1"
+    "parse5": "^2.2.0",
+    "through2": "^2.0.1",
+    "vue-template-validator": "^1.1.5"
   }
 }
